@@ -10,3 +10,4 @@
 	- Data Structures
 		- 01 LinkedListDeque
 		- 02 ArrayDeque
+		- 03 Interface & Higher Order Function
