@@ -5,6 +5,7 @@
 	- Database and Web Access
 	- Data Structures and Algorithms
 		- 05 Array-Based Sequence
+		- 06 Stacks, Queues & Deques
 	
 02. **Java**
 	- Data Structures
