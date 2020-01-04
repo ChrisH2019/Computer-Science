@@ -8,6 +8,5 @@
 	
 02. **Java**
 	- Data Structures
-		- 01 LinkedListDeque
-		- 02 ArrayDeque
+		- 01 Deque
 		- 03 Interface & Higher Order Function
