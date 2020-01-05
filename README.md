@@ -11,3 +11,4 @@
 	- Data Structures
 		- 01 Deque
 		- 03 Interface & Higher Order Function
+		- 04 Disjoint Sets
